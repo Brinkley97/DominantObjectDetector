@@ -27,4 +27,8 @@ See DominantObjectDetector/ViewController.swift
 - [x] Write func(s) to select photo from library
 - [x] Convert img from UIImage instance --> CIImage instance
 - [x] Get results
-- [ ] Upload video here
+- [x] Upload video here (see below)
+- [ ] Update user interface
+
+---
+https://user-images.githubusercontent.com/29153046/152018459-ce31c4b5-1980-48df-857a-e7f285ed91e8.mp4
